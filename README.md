@@ -1,4 +1,5 @@
-
+## Name: Ramkumar G
+## Ref No: 212223220084
 
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
 # AIM :
